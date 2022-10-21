@@ -4,7 +4,7 @@
 
 In this project we propose the implementation of variants of the classic U-Net to train a model to make depth map (Z-coordinate) predictions given a single shot of a fringe image. These variants include Attention U-Net, U-Net plus plus, and R2-U-Net, etc. The purpose of this implementation is to analyze the performance of these network architectures and then make a comparison of the evaluation metrics for linear activation outputs including MSE and RMS.
 
-##### **Table of Contents**
+#### **Table of Contents**
 [1. Import the required libraries.](#implibraries)
 <br/>[2. Loading the CIFAR10 images database.](#loadcifar)
 <br/>[3. Compile the model and training (with Batch Normalization).](#trainingmodel)
