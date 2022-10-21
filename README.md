@@ -7,10 +7,11 @@ In this project we propose the implementation of variants of the classic U-Net t
 #### **Table of Contents**
 [1. Motivation.](#motivation)
 <br/>[2. About the dataset.](#aboutdata)
-<br/>[3. dataset preprocessing.](#dataprepro)
-<br/>[4. proposed models.](#proposedmodels)
-<br/>[5. preliminary results.](#preresults)
-<br/>[6. preliminary results.](#preresults)
+<br/>[3. Dataset preprocessing.](#dataprepro)
+<br/>[4. Proposed models.](#proposedmodels)
+<br/>[5. Preliminary results.](#preresults)
+<br/>[6. Evaluation metrics.](#metrics)
+<br/>[7. Dependencies.](#dependencies)
 
 
 ### 1. Motivation.
@@ -66,11 +67,12 @@ https://github.com/yingkaisha/keras-unet-collection
 #### 5.2. Basic U-Net predictions.
 <p align="center"> <img src="https://imgur.com/GsLppAE.png"> </p>
 
+### 6. Evaluation Metrics (
 $$
-    RMSE = \sqrt{\frac{\sum_{i=1}^{N}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
+    RMSE = \sqrt{\frac{\sum_{i=1}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
 $$
 
-### 6. Dependencies.
+### 7. Dependencies.
 
 <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="100" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="38" height="38"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
