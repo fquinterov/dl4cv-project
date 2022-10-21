@@ -2,7 +2,7 @@
 
 ### This is the main repository of the DL4CV course project *developed by Fernando Quintero*.
 
-In this project we propose the implementation of variants of the classic U-Net to train a model to make depth map (Z-coordinate) predictions given a single shot of a swath image. These variants include Attention U-Net, U-Net plus plus, and R2-U-Net. 
+In this project we propose the implementation of variants of the classic U-Net to train a model to make depth map (Z-coordinate) predictions given a single shot of a fringe image. These variants include Attention U-Net, U-Net plus plus, and R2-U-Net, etc. The objective of this implementation is to evaluate the performance of these network architectures and then make a comparison to select the best one.
 
 ### 1. About the dataset.
 
