@@ -6,11 +6,8 @@ In this project we propose the implementation of variants of the classic U-Net t
 
 #### **Table of Contents**
 [1. About the dataset.](#aboutdata)
-
 <br/>[2. dataset preprocessing.](#dataprepro)
-
 <br/>[3. proposed models.](#proposedmodels)
-
 <br/>[4. preliminary results.](#preresults)
 
 ### 1. About the dataset.
