@@ -9,6 +9,7 @@ In this project we propose the implementation of variants of the classic U-Net t
 <br/>[2. dataset preprocessing.](#dataprepro)
 <br/>[3. proposed models.](#proposedmodels)
 <br/>[4. preliminary results.](#preresults)
+<br/>[5. preliminary results.](#preresults)
 
 ### 1. About the dataset.
 
@@ -47,8 +48,10 @@ https://github.com/yingkaisha/keras-unet-collection
 | `transunet_2d` | TransUNET       | [Chen et al. (2021)](https://arxiv.org/abs/2102.04306) |
 | `swin_unet_2d` | Swin-UNET       | [Hu et al. (2021)](https://arxiv.org/abs/2105.05537) |
  
- 
-### 2. Dependencies
+
+### 4. preliminary results.
+
+### 5. Dependencies.
 
 <a href="https://tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="100" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="38" height="38"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
 
