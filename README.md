@@ -71,3 +71,5 @@ https://github.com/yingkaisha/keras-unet-collection
 - [NumPy](https://numpy.org/)
 - [OpenCV](https://opencv.org/)
 - [Blender](https://www.blender.org/) 
+
+<p align="center"> <img src="https://imgur.com/oY4ILqT.png"> </p>
