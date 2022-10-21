@@ -57,8 +57,9 @@ https://github.com/yingkaisha/keras-unet-collection
 
 #### 4.1. Basic U-Net training.
 <p align="center"> <img src="https://imgur.com/yCzazv1.png"> </p>
+
 #### 4.2. Basic U-Net predictions.
-<p align="center"> <img src="https://imgur.com/GsLppAE"> </p>
+<p align="center"> <img src="https://imgur.com/GsLppAE.png"> </p>
 
 ### 5. Dependencies.
 
