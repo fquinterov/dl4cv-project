@@ -2,7 +2,7 @@
 
 ### This is the main repository of the DL4CV course project *developed by Fernando Quintero*.
 
-In this project we propose the implementation of a digital twin to simulate the reconstruction of 3D objects with the digital fringe projection technique. The main utility of this system is the flexibility to acquire the fringe images, obtaining a large number of images (faithful and with the same parameters of the real system) in a short time taking advantage of the GPU of the computer and thus being able to create feasible Datasets for the training of Deep Learning models.
+In this project we propose the implementation of variants of the classic U-Net to train a model to make depth map (Z-coordinate) predictions given a single shot of a swath image. These variants include Attention U-Net, U-Net plus plus, and R2-U-Net. 
 
 ### 1. About the dataset.
 
