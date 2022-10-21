@@ -67,7 +67,7 @@ https://github.com/yingkaisha/keras-unet-collection
 <p align="center"> <img src="https://imgur.com/GsLppAE.png"> </p>
 
 $$
-    RMSE = \sqrt{\frac{\sum(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
+    RMSE = \sqrt{\frac{\sum_{i=1}^{N}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
 $$
 
 ### 6. Dependencies.
