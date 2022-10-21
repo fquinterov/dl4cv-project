@@ -75,6 +75,8 @@ https://github.com/yingkaisha/keras-unet-collection
 <p align="center"> <img src="https://imgur.com/GsLppAE.png"> </p>
 
 ### 6. Evaluation Metrics
+According to the literature the most adequate metric to evaluate the performance of 3D reconstruction or depth maps is the RMSE (Root-Mean-Square Error), also is a frequently used measure of differences betwen the ground truth and a prediction by a model. The equation for calculating the RMSE of the depth map predicted by the trained model is shown below.
+
 $$
     RMSE = \sqrt{\frac{\sum_{i=1}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
 $$
