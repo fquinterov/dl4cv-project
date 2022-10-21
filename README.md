@@ -20,7 +20,7 @@ In this project we propose the implementation of variants of the classic U-Net t
 <sub>**Fig 1. The advantages of deep-learning method compared with the traditional algorithm in the field of FPP.** a The basic principle of FPP
 relies on the physical model of optical triangulation (left). The basic reconstruction steps generally include fringe projection, phase retrieval, phase
 unwrapping, and phase-to-height conversion based on calibrated system parameters. b The deep-learning-based FPP technology is driven by
-extensive training data. A well-trained deep-learning model can directly predict the depth information from a single-fringe image</sub>
+extensive training data. A well-trained deep-learning model can directly predict the depth information from a single-fringe image.</sub>
 
 ### 2. About the dataset.
 
