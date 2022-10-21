@@ -10,6 +10,15 @@ In this project we propose the implementation of variants of the classic U-Net t
 https://figshare.com/articles/dataset/Single-shot_3D_shape_reconstruction_datasets/7636697**
 	- asd
  
+|  Classifier  | Accuracy |
+|:------------:|:--------:|
+|      SVM     |   0.15   |
+| RandomForest |   0.25   |
+| DecisionTree |   0.22   |
+|  NaiveBayes  |     -    |
+ 
+ 
+ 
 ### 2. Dependencies
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="38" height="38"/> </a>
 - [Blender](https://www.blender.org/) 
