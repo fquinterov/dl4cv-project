@@ -80,6 +80,7 @@ According to the literature the most adequate metric to evaluate the performance
 $$
     RMSE = \sqrt{\frac{\sum_{i=1}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
 $$
+
 Where N is the number of pixels in the image. In this work we implemented the RMSE to see the performance of the preconditions, however it
 must be remembered that the background depth values can increase the error and give inaccurate information. To solve this,
 we applied the mask mentioned above, so that the RMS error only involves the depth map of the object.
