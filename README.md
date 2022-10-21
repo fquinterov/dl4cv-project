@@ -10,5 +10,3 @@ In this project we propose the implementation of a digital twin to simulate the 
 https://figshare.com/articles/dataset/Single-shot_3D_shape_reconstruction_datasets/7636697**
 	- asd
  
-  - aasas
-	 - asdasd
