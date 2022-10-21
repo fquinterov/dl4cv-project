@@ -8,8 +8,7 @@ In this project we propose the implementation of variants of the classic U-Net t
 
 - **H. Nguyen, Y. Wang, and Z. Wang, “Single-Shot 3D Shape Reconstruction Using Structured Light and Deep Convolutional Neural Networks” Sensors 20(13), 3718, 2020.
 https://figshare.com/articles/dataset/Single-shot_3D_shape_reconstruction_datasets/7636697**
-	- asd
- 
+
 | Feature       | Value      |
 |---------------|------------|
 | Image width   | 640 px     |
