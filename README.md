@@ -67,7 +67,7 @@ https://github.com/yingkaisha/keras-unet-collection
 #### 5.2. Basic U-Net predictions.
 <p align="center"> <img src="https://imgur.com/GsLppAE.png"> </p>
 
-### 6. Evaluation Metrics (
+### 6. Evaluation Metrics
 $$
     RMSE = \sqrt{\frac{\sum_{i=1}(PredictedDepth_{i}-RealDepth_{i})^2}{N}}
 $$
