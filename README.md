@@ -46,8 +46,10 @@ https://figshare.com/articles/dataset/Single-shot_3D_shape_reconstruction_datase
  
 ### 2. Dependencies
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="38" height="38"/> </a>
-- [Blender](https://www.blender.org/) 
+
+- [TensorFlow 2.5.0](https://www.tensorflow.org/)
+- [Keras 2.5.0](https://keras.io/)
 - [Python3](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 - [OpenCV](https://opencv.org/)
-- [Projector Add-on for Blender](https://github.com/Ocupe/Projectors)
+- [Blender](https://www.blender.org/) 
